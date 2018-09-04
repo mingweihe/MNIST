@@ -1,1 +1,1 @@
-# MNIST
+# Image Classification on MNIST digital numbers by training diverse models using Tensorflow.
